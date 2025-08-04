@@ -1,4 +1,4 @@
-## A few of the projects that I have thought about and taken no action on for far too long. 👋
+## Centralizing projects I have thought about frequently. 👋
 
 <!--
 **altitudehouseconsulting/altitudehouseconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
