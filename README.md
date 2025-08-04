@@ -1,4 +1,4 @@
-## Centralizing projects I have thought about frequently. 👋
+## Projects. 👋
 
 <!--
 **altitudehouseconsulting/altitudehouseconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
